@@ -93,8 +93,8 @@ soon TM
 
 ## 🗂️ Highlight Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=InstallerForJava&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=rgb-editor&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=InstallerForJava&layout=compact&show_icons=true&theme=cobalt)](https://github.com/Tux8068/InstallerForJava)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=rgb-editor&layout=compact&show_icons=true&theme=cobalt)](https://github.com/Tux8068/rgb-editor)
 
 
 # Contact Me:
@@ -107,8 +107,8 @@ soon TM
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&show_icons=true&theme=synthwave" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api?username=Tux8068&show_icons=true&theme=synthwave" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&show_icons=true&theme=cobalt" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api?username=Tux8068&show_icons=true&theme=cobalt" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://metrics.lecoq.io/Tux8068" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
