@@ -6,8 +6,8 @@ Welcome to Tux8068's profile!
 # Stats & Projects
  <br/>                                                                                                                     
 <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&show_icons=true&theme=synthwave" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api?username=Tux8068&show_icons=true&theme=synthwave" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&show_icons=true&theme=synthwave" height="162px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tux8068" src="https://github-readme-stats.vercel.app/api?username=Tux8068&show_icons=true&theme=synthwave" height="162px"/></a>
   <br/>
 <br/>
   
