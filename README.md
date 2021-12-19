@@ -15,9 +15,10 @@ Welcome to Tux8068's profile!
   <br/>
 <br/>
 
-<p align=center>
+
 
 # Featured Projects:
+<p align=center>                                                                                                                
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=InstaallerForJava&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=rgb-editor&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </p>
