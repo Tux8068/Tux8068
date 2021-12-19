@@ -14,3 +14,7 @@ Welcome to Tux8068's profile!
 # Contact Me:
 - Github:[Tux8068](https://github.com/Tux8068)
 - Discord:[Discord](https://discord.com/users/499270989582958623)
+
+# Featured Project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=InstallerForJava&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=rgb-editor&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
