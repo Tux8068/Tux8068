@@ -28,17 +28,17 @@
 </p>
 <br/>
 <br/>
-HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,HI TUX,
+soon TM
 <br/>
 <br/>
   
 ### 🧐More About Me:
 
-- 🔭 &nbsp; currently working on rgb editor
-- 🌱 &nbsp; learning java and dutch
-- 👨🏻‍💻 &nbsp; HI TUX
-- 🎨 &nbsp; HI TUX
-- 💬 &nbsp; HI TUX
+- 🔭 &nbsp; Currently working on RGB editor
+- 🌱 &nbsp; Learning Java and Dutch 
+- 👨🏻‍💻 &nbsp; Projects available on [Github](https://github.com/Tux8068?tab=repositories)
+- 🎨 &nbsp; #
+- 💬 &nbsp; Feel free to ask me any questions, I'll answer the best i can.
 
 
 <br>
