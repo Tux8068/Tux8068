@@ -25,7 +25,7 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Tux8068?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    
+    </p>
     <a href="https://github.com/Tux8068/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
