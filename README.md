@@ -7,7 +7,7 @@ Welcome to Tux8068's profile!
 # Contact Me:
 - Github: [Tux8068](https://github.com/Tux8068)
 - Discord: [Discord](https://discord.com/users/499270989582958623)
-<p align=center>  <a href=https://discord.com/users/499270989582958623 alt=My discord><img width=32px src=https://i.imgur.com/OViZO8J.png/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align=right>  <a href=https://discord.com/users/499270989582958623 alt=My discord><img width=32px src=https://i.imgur.com/OViZO8J.png/></a>  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 # Statistics
 <br/>
