@@ -4,10 +4,8 @@ Welcome to Tux8068's profile!
 </h3>
 
 # Stats & Projects
-<br/>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068" width="192">
 <img src=https://github-readme-stats.vercel.app/api/pin/?username=Tux8068&repo=InstallerForJavawidth=192>
-<br/>
 
 # Contact Me:
 - Github:[Tux8068](https://github.com/Tux8068)
