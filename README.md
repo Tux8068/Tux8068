@@ -1,16 +1,18 @@
+
+<!-- ReadMD generator by Thnks_CJ and Tuxiscool -->
 <h3 align="center">
 Welcome to Tux8068's profile!
 <img src=https://cdn.cjstevenson.com/images/dino.gif?1556902250" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src=https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Developer">
+<p align=center>
+<img src=https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Discord+Bot+Developer;Java+Developer;Frontend+Developer;Backend+Developer;Fullstack+Developer;C+Developer;C%2B%2B+Developer;C%23+Developer;JavaScript+Developer;PHP+Developer;Kotlin+Developer">
 </p>
 
 # Contact Me:
 - Github: [Tux8068](https://github.com/Tux8068)
-- Discord: [Discord](https://discord.com/users/644210317861191680)
+- Discord: [Discord](https://discord.com/users/499270989582958623)
 
 # Statistics
 <br/>
