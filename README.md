@@ -8,6 +8,8 @@ Welcome to Tux8068's profile!
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align=center>
 <img src=https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Discord+Bot+Developer;Java+Developer;Frontend+Developer;Backend+Developer;Fullstack+Developer;C+Developer;C%2B%2B+Developer;C%23+Developer;JavaScript+Developer;PHP+Developer;Kotlin+Developer">
+  
+  ![](https://komarev.com/ghpvc/?username=Tux8068)
 </p>
 
 # Contact Me:
