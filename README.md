@@ -6,7 +6,7 @@
 💀 Age: 17.
 📬 Contacts: Tuxiscool#6456.
 🖥️ Favorite Coding Lang: Java.
-👾 Wants to learn: .
+👾 Wants to learn: Portuguese 🇵🇹.
 💼 Experience: 6 months.
 🌳 Hobbies: Learning languages, taking photos, walking
 
