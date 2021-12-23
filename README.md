@@ -8,7 +8,7 @@
 🖥️ Favorite Coding Lang: Java.
 👾 Wants to learn: .
 💼 Experience: 6 months.
-🌳 Hobbies: Learning dutch, drawing, walking
+🌳 Hobbies: Learning languages, taking photos, walking
 
 📜 About me: I started learning java for a hobby, but I realise how much I enjoy it.
 I love taking photographs 📸 & learning languages.
