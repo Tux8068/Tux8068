@@ -17,9 +17,9 @@ I love taking photographs 📸 & learning languages.
 
 
 ## 😴 The Boring Stuff
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Tux8068&theme=material-tokyonight"></p>
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Tux8068&theme=material-palenight"></p>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Tux8068&show_icons=true&theme=tokyonight" /></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Tux8068&show_icons=true&theme=palenight" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&theme=blueberry" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&theme=palenight" /></p>
 
