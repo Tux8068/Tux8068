@@ -23,3 +23,5 @@ I love taking photographs 📸 & learning languages.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux8068&layout=compact&theme=palenight" /></p>
 
+<p> <img src="https://komarev.com/ghpvc/?username=tux8068&color=8E64D0" alt="tux8068" /> </p>
+
