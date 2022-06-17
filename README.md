@@ -3,12 +3,12 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Tux8068&data=followers,repositories,stars,commits"></p>
 
 ```diff 
-💀 Age: 17.
+💀 Age: 18.
 📬 Contacts: Tuxiscool#6456.
 🖥️ Favorite Coding Lang: Java.
 👾 Wants to learn: Portuguese (eu).
-💼 Experience: 6 months.
-🌳 Hobbies: Learning languages, taking photos, walking
+💼 Experience: 1 year.
+🌳 Hobbies: Learning languages, taking photos, walking.
 
 📜 About me: I started learning java for a hobby, but I realise how much I enjoy it.
 I love taking photographs 📸 & learning languages.
